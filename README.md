@@ -12,3 +12,5 @@
 
 [Final Assignment Python - Daphne van Heeswijk](https://github.com/DaphnevH/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
 
+[Final Assignment R - Daphne van Heeswijk](https://github.com/DaphnevH/Assignments/blob/master/OECD_R_exam.ipynb)
+
